@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Anandhex/GitHub-Search/static/css/main.933fcfd2.chunk.css",
-    "main.js": "/Anandhex/GitHub-Search/static/js/main.a8258571.chunk.js",
-    "main.js.map": "/Anandhex/GitHub-Search/static/js/main.a8258571.chunk.js.map",
-    "runtime-main.js": "/Anandhex/GitHub-Search/static/js/runtime-main.127e520d.js",
-    "runtime-main.js.map": "/Anandhex/GitHub-Search/static/js/runtime-main.127e520d.js.map",
-    "static/js/2.df70fc35.chunk.js": "/Anandhex/GitHub-Search/static/js/2.df70fc35.chunk.js",
-    "static/js/2.df70fc35.chunk.js.map": "/Anandhex/GitHub-Search/static/js/2.df70fc35.chunk.js.map",
-    "index.html": "/Anandhex/GitHub-Search/index.html",
-    "precache-manifest.88aacc736f080a1d5ccc47d140fd8a76.js": "/Anandhex/GitHub-Search/precache-manifest.88aacc736f080a1d5ccc47d140fd8a76.js",
-    "service-worker.js": "/Anandhex/GitHub-Search/service-worker.js",
-    "static/css/main.933fcfd2.chunk.css.map": "/Anandhex/GitHub-Search/static/css/main.933fcfd2.chunk.css.map",
-    "static/js/2.df70fc35.chunk.js.LICENSE": "/Anandhex/GitHub-Search/static/js/2.df70fc35.chunk.js.LICENSE"
+    "main.css": "/GitHub-Search/static/css/main.933fcfd2.chunk.css",
+    "main.js": "/GitHub-Search/static/js/main.a8258571.chunk.js",
+    "main.js.map": "/GitHub-Search/static/js/main.a8258571.chunk.js.map",
+    "runtime-main.js": "/GitHub-Search/static/js/runtime-main.95afadc2.js",
+    "runtime-main.js.map": "/GitHub-Search/static/js/runtime-main.95afadc2.js.map",
+    "static/js/2.df70fc35.chunk.js": "/GitHub-Search/static/js/2.df70fc35.chunk.js",
+    "static/js/2.df70fc35.chunk.js.map": "/GitHub-Search/static/js/2.df70fc35.chunk.js.map",
+    "index.html": "/GitHub-Search/index.html",
+    "precache-manifest.4cc956850e6727f58114bcb29f78b9f4.js": "/GitHub-Search/precache-manifest.4cc956850e6727f58114bcb29f78b9f4.js",
+    "service-worker.js": "/GitHub-Search/service-worker.js",
+    "static/css/main.933fcfd2.chunk.css.map": "/GitHub-Search/static/css/main.933fcfd2.chunk.css.map",
+    "static/js/2.df70fc35.chunk.js.LICENSE": "/GitHub-Search/static/js/2.df70fc35.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.127e520d.js",
+    "static/js/runtime-main.95afadc2.js",
     "static/js/2.df70fc35.chunk.js",
     "static/css/main.933fcfd2.chunk.css",
     "static/js/main.a8258571.chunk.js"
