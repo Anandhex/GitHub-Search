@@ -15,7 +15,7 @@ export default function SearchBar({ apiUpdate }) {
         <option>location</option>
       </select>
       <button
-        className="btn btn-primary"
+        className="btn btn-dark"
         onClick={() => apiUpdate(query, queryBy)}
       >
         Search

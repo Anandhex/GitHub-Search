@@ -3,6 +3,7 @@ import axios from "axios";
 import Users from "./Component/Users";
 import Pagination from "./Component/Pagination";
 import SearchBar from "./Component/SearchBar";
+
 const App = () => {
   const [users, setUsers] = useState([]);
   const [api, setapi] = useState(
@@ -16,7 +17,6 @@ const App = () => {
     const fetchUser = async () => {
       setLoading(true);
       const res = await axios.get(api).catch(err => setUsers([]));
-      console.log(res);
       if (res) {
         setUsers(res.data.items);
       }
@@ -31,7 +31,6 @@ const App = () => {
 
   const paginate = pageNumber => setCurrentPage(pageNumber);
   const apiUpdate = (query, queryBy) => {
-    console.log(query, queryBy);
     if (query.length === 0) {
       setapi(
         "https://api.github.com/search/users?q=location:bangalore&per_page=100"

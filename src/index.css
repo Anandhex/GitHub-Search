@@ -3,4 +3,10 @@ header {
   background-color: black;
   padding: 10px;
   color: white;
+  font-variant: small-caps;
+  font-size: 1.3rem;
+}
+
+input {
+  text-align: center;
 }

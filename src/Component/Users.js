@@ -2,7 +2,7 @@ import React from "react";
 import "../static/Users.css";
 const Users = ({ users, loading }) => {
   if (loading) {
-    return <h2>loading...</h2>;
+    return <div className="spinner"></div>;
   }
   if (users.length <= 0) {
     return <h2>No results found..</h2>;
