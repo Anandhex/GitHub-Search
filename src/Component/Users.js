@@ -8,7 +8,7 @@ const Users = ({ users, loading }) => {
     return <h2>No results found..</h2>;
   }
   const userList = users.map(user => (
-    <li className="card " key={user.id}>
+    <li className="card" style={{ width: "250px" }} key={user.id}>
       <img
         className="card-img-top"
         src={user.avatar_url}
